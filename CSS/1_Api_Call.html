@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Fetch API Data </title>
+</head>
+<body>
+    <h1>Fetch API Data</h1>
+    <button onclick="fetchData()">Fetch Data</button>
+    <table border="1" id="dataList">
+        
+    </table>
+    <script>
+        async function fetchData(){
+            try{
+                const response = await fetch('../CSS/api/faker.json');
+                const data = await response.json();
+
+                // Clear the list of elements new items
+                const dataList = document.getElementById('dataList');
+                dataList.innerHTML = '';
+
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+
+                    const nameCell = document.createElement('td');
+                    nameCell.textContent = item.firstName;
+                    row.appendChild(nameCell);
+
+                    const dogSell = document.createElement('td');
+                    dogSell.textContent = item.dog;
+                    row.appendChild(dogSell);
+
+                    const sexCell = document.createElement('td');
+                    sexCell.textContent = item.sex;
+                    row.appendChild(sexCell);
+
+                    dataList.appendChild(row);
+                });
+
+                console.log(data);
+            }catch(err){
+                console.error('Error:', err);
+            }
+        }
+        fetchData();
+    </script>
+</body>
+</html>

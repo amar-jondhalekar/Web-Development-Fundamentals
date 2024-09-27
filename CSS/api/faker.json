@@ -1,0 +1,502 @@
+[
+    {
+        "dog": "Grand Bleu de Gascogne",
+        "firstName": "Zion",
+        "sex": "male"
+    },
+    {
+        "dog": "Tornjak",
+        "firstName": "Aaliyah",
+        "sex": "female"
+    },
+    {
+        "dog": "Denmark Feist",
+        "firstName": "Zola",
+        "sex": "female"
+    },
+    {
+        "dog": "Catalan Sheepdog",
+        "firstName": "Audrey",
+        "sex": "female"
+    },
+    {
+        "dog": "Bucovina Shepherd Dog",
+        "firstName": "Gilbert",
+        "sex": "female"
+    },
+    {
+        "dog": "Pembroke Welsh Corgi",
+        "firstName": "Graciela",
+        "sex": "male"
+    },
+    {
+        "dog": "Kooikerhondje",
+        "firstName": "Rose",
+        "sex": "female"
+    },
+    {
+        "dog": "Dogo Sardesco",
+        "firstName": "Marley",
+        "sex": "male"
+    },
+    {
+        "dog": "Canaan Dog",
+        "firstName": "Imogene",
+        "sex": "male"
+    },
+    {
+        "dog": "Carolina Dog",
+        "firstName": "Alek",
+        "sex": "male"
+    },
+    {
+        "dog": "Perro Majorero",
+        "firstName": "Tatyana",
+        "sex": "female"
+    },
+    {
+        "dog": "Hovawart",
+        "firstName": "Keegan",
+        "sex": "female"
+    },
+    {
+        "dog": "Bohemian Shepherd",
+        "firstName": "Trey",
+        "sex": "female"
+    },
+    {
+        "dog": "Russian Spaniel",
+        "firstName": "Presley",
+        "sex": "male"
+    },
+    {
+        "dog": "Welsh Springer Spaniel",
+        "firstName": "Providenci",
+        "sex": "female"
+    },
+    {
+        "dog": "Basset Hound",
+        "firstName": "Mathilde",
+        "sex": "male"
+    },
+    {
+        "dog": "South Russian Ovcharka",
+        "firstName": "Samantha",
+        "sex": "male"
+    },
+    {
+        "dog": "Serbian Tricolour Hound",
+        "firstName": "Arvel",
+        "sex": "male"
+    },
+    {
+        "dog": "American Pit Bull Terrier",
+        "firstName": "Dora",
+        "sex": "female"
+    },
+    {
+        "dog": "Australian Cattle Dog",
+        "firstName": "Shad",
+        "sex": "male"
+    },
+    {
+        "dog": "Beagle",
+        "firstName": "Laura",
+        "sex": "female"
+    },
+    {
+        "dog": "Perro Majorero",
+        "firstName": "Vernie",
+        "sex": "female"
+    },
+    {
+        "dog": "Kokoni",
+        "firstName": "Clint",
+        "sex": "male"
+    },
+    {
+        "dog": "Curly-Coated Retriever",
+        "firstName": "Emerson",
+        "sex": "female"
+    },
+    {
+        "dog": "Pharaoh Hound",
+        "firstName": "Otis",
+        "sex": "male"
+    },
+    {
+        "dog": "Grand Anglo-Français Tricolore",
+        "firstName": "Aida",
+        "sex": "female"
+    },
+    {
+        "dog": "Rafeiro do Alentejo",
+        "firstName": "Lindsey",
+        "sex": "male"
+    },
+    {
+        "dog": "Pastore della Lessinia e del Lagorai",
+        "firstName": "Nelda",
+        "sex": "female"
+    },
+    {
+        "dog": "Colombian fino hound",
+        "firstName": "Isabella",
+        "sex": "male"
+    },
+    {
+        "dog": "Cão de Gado Transmontano",
+        "firstName": "Beatrice",
+        "sex": "female"
+    },
+    {
+        "dog": "Hanover Hound",
+        "firstName": "Janessa",
+        "sex": "male"
+    },
+    {
+        "dog": "Bavarian Mountain Hound",
+        "firstName": "Eldora",
+        "sex": "male"
+    },
+    {
+        "dog": "Curly-Coated Retriever",
+        "firstName": "Blake",
+        "sex": "female"
+    },
+    {
+        "dog": "King Charles Spaniel",
+        "firstName": "Aimee",
+        "sex": "female"
+    },
+    {
+        "dog": "Peruvian Inca Orchid",
+        "firstName": "Teresa",
+        "sex": "female"
+    },
+    {
+        "dog": "Taiwan Dog",
+        "firstName": "Dimitri",
+        "sex": "female"
+    },
+    {
+        "dog": "Japanese Chin",
+        "firstName": "Kurt",
+        "sex": "female"
+    },
+    {
+        "dog": "Levriero Sardo",
+        "firstName": "Kiley",
+        "sex": "male"
+    },
+    {
+        "dog": "Border Terrier",
+        "firstName": "Vern",
+        "sex": "male"
+    },
+    {
+        "dog": "Chinese Chongqing Dog",
+        "firstName": "Maximus",
+        "sex": "female"
+    },
+    {
+        "dog": "Belgian Shepherd",
+        "firstName": "Kade",
+        "sex": "female"
+    },
+    {
+        "dog": "Trigg Hound",
+        "firstName": "Maud",
+        "sex": "female"
+    },
+    {
+        "dog": "Grand Anglo-Français Tricolore",
+        "firstName": "Kamryn",
+        "sex": "female"
+    },
+    {
+        "dog": "Redbone Coonhound",
+        "firstName": "Kailey",
+        "sex": "female"
+    },
+    {
+        "dog": "Patagonian Sheepdog",
+        "firstName": "Brook",
+        "sex": "male"
+    },
+    {
+        "dog": "Saint-Usuge Spaniel",
+        "firstName": "Tyrel",
+        "sex": "female"
+    },
+    {
+        "dog": "Maremmano-Abruzzese Sheepdog",
+        "firstName": "Sharon",
+        "sex": "male"
+    },
+    {
+        "dog": "Koolie",
+        "firstName": "Brionna",
+        "sex": "female"
+    },
+    {
+        "dog": "Bohemian Shepherd",
+        "firstName": "Simeon",
+        "sex": "male"
+    },
+    {
+        "dog": "Gascon Saintongeois",
+        "firstName": "Grant",
+        "sex": "male"
+    },
+    {
+        "dog": "Braque de l'Ariège",
+        "firstName": "Mackenzie",
+        "sex": "male"
+    },
+    {
+        "dog": "Finnish Lapphund",
+        "firstName": "Fanny",
+        "sex": "male"
+    },
+    {
+        "dog": "Rajapalayam",
+        "firstName": "Lowell",
+        "sex": "male"
+    },
+    {
+        "dog": "Black Russian Terrier",
+        "firstName": "Shaun",
+        "sex": "male"
+    },
+    {
+        "dog": "Norfolk Terrier",
+        "firstName": "Lyda",
+        "sex": "male"
+    },
+    {
+        "dog": "Eurasier",
+        "firstName": "Fausto",
+        "sex": "male"
+    },
+    {
+        "dog": "Chortai",
+        "firstName": "Fleta",
+        "sex": "male"
+    },
+    {
+        "dog": "Rampur Greyhound",
+        "firstName": "Hilbert",
+        "sex": "male"
+    },
+    {
+        "dog": "Weimaraner",
+        "firstName": "Adolf",
+        "sex": "male"
+    },
+    {
+        "dog": "Jindo",
+        "firstName": "Lilly",
+        "sex": "female"
+    },
+    {
+        "dog": "Bhotia",
+        "firstName": "Pansy",
+        "sex": "male"
+    },
+    {
+        "dog": "Australian Shepherd",
+        "firstName": "Israel",
+        "sex": "female"
+    },
+    {
+        "dog": "Magyar agár",
+        "firstName": "Trycia",
+        "sex": "female"
+    },
+    {
+        "dog": "Georgian Shepherd",
+        "firstName": "Dasia",
+        "sex": "male"
+    },
+    {
+        "dog": "Swedish Lapphund",
+        "firstName": "Oleta",
+        "sex": "male"
+    },
+    {
+        "dog": "Danish-Swedish Farmdog",
+        "firstName": "Abdul",
+        "sex": "male"
+    },
+    {
+        "dog": "New Guinea Singing Dog",
+        "firstName": "Candelario",
+        "sex": "female"
+    },
+    {
+        "dog": "Magyar agár",
+        "firstName": "Julie",
+        "sex": "female"
+    },
+    {
+        "dog": "Sardinian Shepherd Dog",
+        "firstName": "Melvin",
+        "sex": "female"
+    },
+    {
+        "dog": "Indian Spitz",
+        "firstName": "Sylvan",
+        "sex": "male"
+    },
+    {
+        "dog": "Norfolk Terrier",
+        "firstName": "Jammie",
+        "sex": "female"
+    },
+    {
+        "dog": "Chongqing dog",
+        "firstName": "Tobin",
+        "sex": "male"
+    },
+    {
+        "dog": "Picardy Spaniel",
+        "firstName": "Katlyn",
+        "sex": "male"
+    },
+    {
+        "dog": "Austrian Black and Tan Hound",
+        "firstName": "Celia",
+        "sex": "female"
+    },
+    {
+        "dog": "Boerboel",
+        "firstName": "Nasir",
+        "sex": "male"
+    },
+    {
+        "dog": "Bulldog",
+        "firstName": "Maverick",
+        "sex": "female"
+    },
+    {
+        "dog": "Australian Stumpy Tail Cattle Dog",
+        "firstName": "Daren",
+        "sex": "male"
+    },
+    {
+        "dog": "Kanni",
+        "firstName": "Nicklaus",
+        "sex": "female"
+    },
+    {
+        "dog": "Thai Bangkaew Dog",
+        "firstName": "Amara",
+        "sex": "male"
+    },
+    {
+        "dog": "Keeshond",
+        "firstName": "Bradley",
+        "sex": "female"
+    },
+    {
+        "dog": "Alaskan Klee Kai",
+        "firstName": "Grace",
+        "sex": "female"
+    },
+    {
+        "dog": "Bedlington Terrier",
+        "firstName": "Alessandra",
+        "sex": "male"
+    },
+    {
+        "dog": "Cesky Terrier",
+        "firstName": "Bart",
+        "sex": "male"
+    },
+    {
+        "dog": "Curly-Coated Retriever",
+        "firstName": "Kallie",
+        "sex": "female"
+    },
+    {
+        "dog": "Lagotto Romagnolo",
+        "firstName": "Vivian",
+        "sex": "male"
+    },
+    {
+        "dog": "Clumber Spaniel",
+        "firstName": "Bradley",
+        "sex": "female"
+    },
+    {
+        "dog": "Clumber Spaniel",
+        "firstName": "Audra",
+        "sex": "male"
+    },
+    {
+        "dog": "Lithuanian Hound",
+        "firstName": "Wade",
+        "sex": "female"
+    },
+    {
+        "dog": "Lapponian Herder",
+        "firstName": "Fredy",
+        "sex": "female"
+    },
+    {
+        "dog": "Scottish Deerhound",
+        "firstName": "Precious",
+        "sex": "female"
+    },
+    {
+        "dog": "Carpathian Shepherd Dog",
+        "firstName": "Mike",
+        "sex": "male"
+    },
+    {
+        "dog": "Mudi",
+        "firstName": "Gilbert",
+        "sex": "female"
+    },
+    {
+        "dog": "Smalandstövare",
+        "firstName": "Newton",
+        "sex": "male"
+    },
+    {
+        "dog": "Greek Shepherd",
+        "firstName": "Kayli",
+        "sex": "female"
+    },
+    {
+        "dog": "Bluetick Coonhound",
+        "firstName": "Francesca",
+        "sex": "female"
+    },
+    {
+        "dog": "Bouvier des Ardennes",
+        "firstName": "Bobbie",
+        "sex": "male"
+    },
+    {
+        "dog": "Andalusian Hound",
+        "firstName": "Telly",
+        "sex": "female"
+    },
+    {
+        "dog": "Russo-European Laika",
+        "firstName": "Dangelo",
+        "sex": "male"
+    },
+    {
+        "dog": "Pomeranian",
+        "firstName": "Alfred",
+        "sex": "male"
+    },
+    {
+        "dog": "Paisley Terrier",
+        "firstName": "Adolph",
+        "sex": "female"
+    }
+]
