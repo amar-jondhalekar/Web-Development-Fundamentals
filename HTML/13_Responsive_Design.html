@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Responsive Design </title>
+    <style>
+        .container{
+            display: flex;
+            align-items: center;
+            flex-basis: 20%;
+            background: gold;
+        }
+        .box{
+            width: 30%;
+            background: silver;
+            border: 1px solid red;
+        }
+        .flex-self-container{
+            display: flex;
+            align-items: center;
+            text-align: center;
+        }
+        .left-side, .right-side{
+            flex-basis: 20%;
+            align-self: flex-start;
+            top: 70px;
+            background-color: #626262;
+            margin: 10px;
+            padding: 13px 0;
+        }
+        .main-side{
+            flex-basis: 60%;
+            height: 1000vh;
+            background: #616161;
+            
+        }
+        @media screen and (max-width: 896px){
+            .box{
+                width: 50%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box"> Box 1 </div>
+        <div class="box"> Box 2 </div>
+        <div class="box"> Box 3 </div>
+    </div>
+    <div class="flex-self-container">
+        <section class="left-side"> Left Side </section>
+        <section class="main-side"> Main Container </section>
+        <section class="right-side"> Right Side </section>
+    </div>
+</body>
+</html>
