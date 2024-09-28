@@ -1,0 +1,15 @@
+input[type] {
+    border: 2px solid black;
+}
+a[href="https://www.example.com"] {
+    color: green;
+}
+input[type*="text"] {
+    background-color: #eeeeee;
+}
+a[href^="https://"]{
+    color: red;
+}
+a[href$=".pdf"]{
+    text-decoration: none;
+}
