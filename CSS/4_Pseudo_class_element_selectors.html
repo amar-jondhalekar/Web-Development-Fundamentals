@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pseudo Class and Pseudo Element Selectors </title>
+    <style>
+        p:hover{
+            color: seagreen;
+        }
+        span::before{
+            content: 'Yes';
+            color: brown;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p> Pseudo class selector </p>
+        <span> Pseudo Element selector </span>
+    </div>
+</body>
+</html>
