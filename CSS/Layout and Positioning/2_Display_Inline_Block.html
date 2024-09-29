@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Display Inline Aand Display Block </title>
+    <title> Display Properties </title>
     <style>
         .block{
             display: block;
@@ -17,16 +17,36 @@
             margin: 30px;
             border: 1px solid red;
         }
+        .inline1{
+            display: inline;
+            padding: 20px;
+            /* Width and Height not applicable for inline */
+            height: 50px;
+            width: 50px;
+            border: 1px solid black;
+        }
+        .inline-block{
+            display: inline-block;
+            padding: 20px;
+            margin: 30px;
+            border: 1px solid green;
+            height: 50px;
+            width: 50px;
+        }
     </style>
 </head>
 <body>
-    <div container>
+    <div class="container">
         <h2> Display Properties </h2>
         Text 
         <div class="block"> Display Block </div>
         Text 
         <div class="inline"> Display Inline </div>
         Text
+    </div><br><br>
+    <div class="container1">
+        <div class="inline1">Inline Element</div>Text 2<br/>
+        <div class="inline-block">Inline Block</div>Text 3
     </div>
 </body>
 </html>
